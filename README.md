@@ -39,21 +39,15 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 
 ### 首页截图
 
-<p align="center">
 ![首页截图](./image/home.png)
-</p>
 
 ### 房间截图
 
-<p align="center">
 ![房间截图](./image/room.png)
-</p>
 
 ### 游戏截图
 
-<p align="center">
 ![游戏截图](./image/game.PNG)
-</p>
 
 ## 游玩规则
 
@@ -169,6 +163,7 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 ## 支持
 
 如果你喜欢该项目，可以捐赠支持，万分感谢！！！
+<br/>
 <br/>
 
 <p align="center">

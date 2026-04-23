@@ -13,7 +13,8 @@
 
 # 吵吵三国 🔥
 
-> 复刻“璀璨宝石”、增强代入感
+> 复刻“璀璨宝石”、命名卡牌资源、增强代入感、便于沟通交流
+
 > 《吵吵三国》是一款充满策略与竞争的在线桌游，支持2-4人联机游玩。在游戏中，玩家们扮演三国时期虚拟势力，通过征兵、招募武将和获得谋士辅佐，争夺成为战力最强的势力。
 
 - 本地部署、分享好友
@@ -24,8 +25,6 @@
 
 **也可点击[吵吵三国【官方网站】](https://ccsg.chaochaoyx.com)即刻开玩！！！**
 
-![游戏截图](./image/game.PNG)
-
 ## 快速部署
 
 使用Docker一行命令完成部署
@@ -35,6 +34,26 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 ```
 
 部署成功后，浏览器输入[http://localhost:8080](http://localhost:8080)开始桌游。
+
+## 游戏截图
+
+### 首页截图
+
+<p align="center">
+![首页截图](./image/home.png)
+</p>
+
+### 房间截图
+
+<p align="center">
+![房间截图](./image/room.png)
+</p>
+
+### 游戏截图
+
+<p align="center">
+![游戏截图](./image/game.PNG)
+</p>
 
 ## 游玩规则
 
@@ -153,5 +172,5 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 <br/>
 
 <p align="center">
-<img alt="logo" src="./image/IMG_6652.JPG" height="200">
+<img alt="logo" src="./image/IMG_6652.JPG" height="300">
 </p>

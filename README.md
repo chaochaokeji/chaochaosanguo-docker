@@ -77,8 +77,6 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 
 ### 完整规则
 
-《吵吵三国》是一款充满策略与竞争的在线桌游，支持2-4人联机游玩。在游戏中，玩家们扮演三国时期虚拟势力，通过征兵、招募武将和获得谋士辅佐，争夺成为战力最强的势力。
-
 #### 游戏元素
 
 游戏界面依次为：谋士、武将、全国可征兵力、玩家势力。
@@ -152,7 +150,7 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 ## 下步计划
 
 - 水友赛功能，方便小伙伴组织小型比赛
-- 管理后台模块，添加广告等功能
+- 管理后台模块，自己添加广告等功能
 - 添加游戏动效及操作记录
 - ...
 

@@ -143,8 +143,6 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 
 以下仅部分武将：
 
-![部分武将](./image/5&6.PNG)
-![部分武将](./image/5333&633.PNG)
 ![部分武将](./image/7&73.PNG)
 
 ## 下步计划

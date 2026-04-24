@@ -56,7 +56,7 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 
 游戏过程截图：
 
-![游戏截图](./image/game.PNG)
+![游戏截图](./image/game.png)
 
 ## 游玩规则
 

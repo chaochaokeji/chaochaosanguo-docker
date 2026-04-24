@@ -1,13 +1,9 @@
 <p align="center">
-  <br>
-  <br>
   <a href="https://ccsg.chaochaoyx.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <img alt="logo" src="./image/cover.png" height="200">
     </picture>
   </a>
-  <br>
-  <br>
 </p>
 <p align="center"><b>复刻“璀璨宝石”、命名卡牌资源、增强代入感、便于沟通交流</b></p>
 <br/>
@@ -30,7 +26,17 @@
 
 ## 目录
 
-[toc]
+- [1.快速部署](#快速部署)
+- [2.游戏截图](#游戏截图)
+- [3.游玩规则](#游玩规则)
+  - [3.1上手规则](#上手规则)
+  - [3.2完整规则](#完整规则)
+- [4.游戏资料](#游戏资料)
+  - [4.1谋士](#谋士)
+  - [4.2武将](#武将)
+- [5.下步计划](#下步计划)
+- [6.建议反馈](#建议反馈)
+- [7.支持捐赠](#支持捐赠)
 
 ## 快速部署
 
@@ -159,9 +165,9 @@ docker run -d -p 8080:80 --name chaochaosanguo chaochaokeji/chaochaosanguo:lates
 
 欢迎小伙伴多多提出修改意见，项目将不断发展完善。
 
-## 支持
+## 支持捐赠
 
-如果你喜欢该项目，可以捐赠支持，万分感谢！！！
+如果你喜欢该项目，可以捐赠支持，我们将用于开发及支付服务器费用，万分感谢！！！
 <br/>
 <br/>
 
